@@ -4,7 +4,7 @@ shrill-yam-9521
 
 # Outfitr  (Ajio - Clone)
 
-Outfitr is an e-commerce website where people can buy from wide range of products and has an interactive UI. We are a one stop shop for all your fashion and lifestyle needs.
+Outfitr is the ultimate destination for fashion and lifestyle enthusiasts. Our platform offers a diverse array of products, including stylish clothing, trendy accessories, essential home decor, and top-quality beauty products. We strive to make your shopping experience as effortless and enjoyable as possible, with a user-friendly interface that allows for seamless browsing and purchasing. At Outfitr, we are committed to providing you with the highest level of customer service, ensuring that your every need and preference is met. Shop with us today and elevate your fashion and lifestyle game!
 
 A Collaborative project built by a team of 5 executed in 5 days.
 
